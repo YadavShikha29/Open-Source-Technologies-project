@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pycache__/
+*.pyc
+*.env
+secrets/
+data/          # if data is large; else commit small sample only
